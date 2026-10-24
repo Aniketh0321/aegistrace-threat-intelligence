@@ -1,0 +1,9 @@
+
+# Runtime dependencies for AegisTrace
+requests>=2.31.0
+numpy>=1.26.0,<2.0
+pandas>=2.0.0,<2.2
+spacy>=3.7.0,<3.8.0
+click>=8.0.0
+statsmodels>=0.14.0
+plotly>=5.18.0
